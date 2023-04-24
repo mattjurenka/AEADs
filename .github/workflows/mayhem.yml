@@ -59,7 +59,6 @@ jobs:
           sarif-output: sarif
 
 
-
       - name: Start analysis of aes_gcm_128
         uses: ForAllSecure/mcode-action@v1
         with:
