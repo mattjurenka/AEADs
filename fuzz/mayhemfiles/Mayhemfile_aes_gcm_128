@@ -1,0 +1,7 @@
+project: AEADs
+target: aes_gcm_128
+duration: 90
+
+cmds:
+    - cmd: /aes_gcm_128
+
